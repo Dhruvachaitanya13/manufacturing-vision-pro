@@ -1,4 +1,4 @@
-# 🏭 Manufacturing Vision Pro
+# Manufacturing Vision Pro
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0-red.svg)
@@ -10,7 +10,7 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 Manufacturing Vision Pro is an end-to-end MLOps pipeline designed to automate quality control on high-speed conveyor belts. It leverages **YOLOv8** for object detection and **FastAPI** for serving predictions via a microservice architecture.
 
@@ -22,7 +22,7 @@ Unlike standard tutorials, this project features:
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 * **Real-Time Inference:** <15ms latency on GPU.
 * **Defect Classification:** Distinguishes between scratches, stains, and pits.
@@ -32,7 +32,7 @@ Unlike standard tutorials, this project features:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Core:** Python 3.10, OpenCV, NumPy
 * **ML Framework:** PyTorch, Ultralytics YOLOv8
@@ -43,7 +43,7 @@ Unlike standard tutorials, this project features:
 
 ---
 
-## ⚡ Installation & Setup
+## Installation & Setup
 
 1.  **Clone the Repository**
     ```bash
@@ -60,7 +60,7 @@ Unlike standard tutorials, this project features:
 
 ---
 
-## 🏃‍♂️ How to Run
+## How to Run
 
 ### 1. Generate Synthetic Data
 Simulate a factory environment by creating 500 realistic training images.
